@@ -1,4 +1,4 @@
-# AC-Product-Card
+# ALCH-Product-Card
 
 Este es un paquete de pruebas de despliegue en NPM
 
@@ -12,7 +12,7 @@ import {
   ProductImage,
   ProductTitle,
   ProductButtons,
-} from 'ac-product-card';
+} from 'alch-product-card';
 ```
 ```
    <ProductCard

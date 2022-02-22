@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
+  "version": "1.0.0-rc",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -34,16 +34,16 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "ac-product-card",
+  "name": "alch-product-card",
   "author": "Ana Lucia Chavez",
-  "module": "dist/ac-product-card.esm.js",
+  "module": "dist/alch-product-card.esm.js",
   "size-limit": [
     {
-      "path": "dist/ac-product-card.cjs.production.min.js",
+      "path": "dist/alch-product-card.cjs.production.min.js",
       "limit": "10 KB"
     },
     {
-      "path": "dist/ac-product-card.esm.js",
+      "path": "dist/alch-product-card.esm.js",
       "limit": "10 KB"
     }
   ],
